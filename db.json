@@ -560,39 +560,35 @@
           "url": "https://pipingpotcurry.com/wp-content/uploads/2019/01/Roti-Chapati-Whole-Wheat-Indian-Flatbread-Cook-Roti-4-copy-500x375.jpg",
           "id": 1,
           "qty": 1
-        },
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cart": [
         {
-          "foodName": "Alu Matar",
-          "price": "120",
+          "foodName": "Hyderabadi Biriyani",
+          "price": "140",
+          "catagory id": 2,
+          "url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/panditp253-gmail.com/VEG_HYDERABADI_PAALAK_BIRYANI__recipe_edited_400.jpg",
+          "id": 1,
+          "qty": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cart": [
+        {
+          "foodName": "Rice",
+          "price": "100",
           "catagory id": 1,
-          "url": "https://www.jcookingodyssey.com/wp-content/uploads/2021/12/Aloo-Matar-No-Onion-Garlic2Bjpg2B12Bof2B5.jpg.webp",
+          "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/basmati-rice-recipe.jpg",
           "id": 2,
           "qty": 1
         }
       ],
-      "id": 32
-    },
-  
-    {
-      "cart": [
-        {
-          "foodName": "Roti",
-          "price": "10",
-          "catagory id": 1,
-          "url": "https://pipingpotcurry.com/wp-content/uploads/2019/01/Roti-Chapati-Whole-Wheat-Indian-Flatbread-Cook-Roti-4-copy-500x375.jpg",
-          "id": 1,
-          "qty": 1
-        },
-        {
-          "foodName": "Mushroom",
-          "price": "160",
-          "catagory id": 1,
-          "url": "https://veenaazmanov.com/wp-content/uploads/2018/03/Indian-Mushroom-Masala-1.jpg",
-          "id": 4,
-          "qty": 1
-        }
-      ],
-      "id": 34
+      "id": 3
     }
   ]
 }
